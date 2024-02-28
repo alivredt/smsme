@@ -1,0 +1,18 @@
+{
+    "name": "علي احمد ",
+    "description": "بوت سمسمي",
+    "stack": "container",
+    "logo": "https://telegra.ph/file/5116db79f852db113875c.jpg",
+    "keywords": [
+        "python",
+        "chatbot",
+        "telegrambot"
+    ],
+    "env": {
+        "ELHYBA": {
+            "description": "توكن البوت",
+            "value": "",
+            "required": true
+    }
+  }
+} 
